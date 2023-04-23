@@ -6,7 +6,7 @@
 
 ![Build](https://github.com/electerious/Ackee/workflows/Build/badge.svg) [![Coverage Status](https://coveralls.io/repos/github/electerious/Ackee/badge.svg?branch=master)](https://coveralls.io/github/electerious/Ackee?branch=master) [![Mentioned in Awesome Selfhosted](https://awesome.re/mentioned-badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted) [![Donate via PayPal](https://img.shields.io/badge/paypal-donate-009cde.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CYKBESW577YWE)
 
-Self-hosted, Node.js based analytics tool for those who care about privacy. Ackee runs on your own server, analyzes the traffic of your websites and provides useful statistics in a minimal interface.
+面向重视隐私的用户的自托管 Node.js 分析工具。阿基运行在您自己的服务器上,分析您网站的流量并在极简接口中提供有用的统计数据。
 
 [🌍 Website](https://ackee.electerious.com) | [🔮 Live Demo](https://demo.ackee.electerious.com) | [🧸 GraphQL Playground](https://demo.ackee.electerious.com/api)
 
@@ -16,16 +16,16 @@ Self-hosted, Node.js based analytics tool for those who care about privacy. Acke
 
 </div>
 
-## 👋 Introduction
+## 👋 介绍
 
-Ackee is a self-hosted analytics tool that cares about privacy. We believe that you don't need to track every aspect of your visitors. Ackee keeps tracked data anonymized to avoid that users are identifiable, while still providing helpful insights. It's the right tool for everyone who doesn't need a full-featured marketing analytics platform like Google Analytics or Matomo.
+Ackee 是一款自托管的分析工具,它注重用户隐私。 我们认为您无需跟踪访客的各个方面。 Ackee 将跟踪的数据匿名化存储以避免用户可以识别出来,同时仍然提供有用的见解。 它是所有不需要像 Google Analytics 或Matomo这样全功能的营销分析平台的合适工具。
 
-- **Self-hosted**: Ackee runs on your own server and is 100% open-source
-- **Modern technologies**: Lightweight Node.js and MongoDB architecture
-- **Beautiful**: Minimal and focused interface
-- **No cookies**: No unique user tracking and therefore no required cookie message
-- **Events**: Track button clicks, newsletter subscriptions and more
-- **GraphQL API**: Fully documented GraphQL API that allows you to build new tools upon Ackee
+- **自托管** : Ackee 运行在您自己的服务器上并且是100% 开源
+- **现代技术** : 轻量级的Node.js 和MongoDB 架构
+- **美观** : 最小化和专注的界面
+- **无cookies** : 没有唯一用户跟踪,因此无需cookie 信息
+- **事件** : 跟踪按钮点击、资讯订阅等
+- **GraphQL API** : 完全文档化的GraphQL API,可用于在Ackee 之上构建新工具
 
 ## 🚀 Get started
 
@@ -51,9 +51,9 @@ And configure Ackee and your server correctly…
 
 Take a look at the [FAQ](docs/FAQ.md) if you have any questions left.
 
-## 📚 Documentation
+## 📚 文档
 
-Documentation and guides are located in [the /docs folder](docs/). Also take a look at the [FAQ](docs/FAQ.md) if you have any questions left.
+文档和指南位于 [the /docs folder](docs/) 文件夹中。如果您还有任何疑问,请检查常见问题解答。
 
 ### API
 
